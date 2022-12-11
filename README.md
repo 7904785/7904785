@@ -1,10 +1,147 @@
-- 👋 Hi, I’m @7904785
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-7904785/7904785 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<html>
+<head>
+<title>TRIGONOMETRY </title>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+
+</head>
+<body >
+<form name="my form">
+<h1> TRIGONOMETRY </h1>
+1)tan30° =<br>
+	a)1/√3      b) √3          c) 1            d) √3/2<br>
+1)Answer:<br>
+<input type="radio" name="1" value="(a)">(a)<br>
+<input type="radio" name="1" value="(b)">(b)<br>
+<input type="radio" name="1" value="(c)">(c)<br>
+<input type="radio" name="1" value="(d)">(d)<br>
+2)if cos A=4/5, then  the value of tan A is<br>
+a) 3/5         b)3/4             c)4/3           d)5/3<br>
+2)Answer:<br> 
+<input type="radio" name="2" value="(a)">(a)<br>
+<input type="radio" name="2" value="(b)">(b)<br>
+<input type="radio" name="2" value="(c)">(c)<br>
+<input type="radio" name="2" value="(d)">(d)<br>
+3)if sinA=1/2, then the value of cot A is <br>
+a)√3          b)1/√3           c)√3/2             d)1<br>
+3)Answer:<br>
+<input type="radio"name ="3" value="(a)">(a)<br>
+<input type="radio" name="3" value="(b)">(b)<br>
+<input type="radio" name="3" value="(c)">(c)<br>
+<input type="radio" name="3" value="(d)">(d)<br>
+4) The value of (tan1° tan2° tan3°...tan89°)is <br>
+a)0          b) 1           c)2           d)1/2<br>
+4)Answer:<br>
+<input type="radio"name ="4" value="(a)">(a)<br>
+<input type="radio" name="4" value="(b)">(b)<br>
+<input type="radio" name="4" value="(c)">(c)<br>
+<input type="radio" name="4" value="(d)">(d)<br>
+5) sec45°=<br>
+a)1                b)  2/√3          c)  2            d)√2<br>
+5)Answer:<br>
+<input type="radio" name="5" value="(a)">(a)<br>
+<input type="radio" name="5" value="(b)">(b)<br>
+<input type="radio" name="5" value="(c)">(c)<br>
+<input type="radio" name="5" value="(d)">(d)<br>
+6) if ∆ABC is right anglad at C, then the value of cos(A+B) is <br>
+a) 0               b)1             c)1/2           d)√3/2<br>
+6)Answer:<br>
+<input type="radio" name="6" value="(a)">(a)<br>
+<input type="radio" name="6" value="(b)">(b)<br>
+<input type="radio" name="6" value="(c)">(c)<br>
+<input type="radio" name="6"" value="(d)">(d)<br>
+7) Cot90°= <br>
+a) 1             b)n.d               c)√2             d)0<br>
+7)Answer:<br>
+<input type="radio" name="7" value="(a)">(a)<br>
+<input type="radio" name="7" value="(b)">(b)<br>
+<input type="radio" name="7" value="(c)">(c)<br>
+<input type="radio" name="7" value="(d)">(d)<br>
+8) A pole 6m high casts a shadow 2√3m long on the ground, then the sun's elevationelevation is <br>
+a)60°            b)45°           c)30°            d)90°<br>
+8)Answer:<br>
+<input type="radio" name="8" value="(a)">(a)<br>
+<input type="radio" name="8" value="(b)">(b)<br>
+<input type="radio" name="8" value="(c)">(c)<br>
+<input type="radio" name="8" value="(d)">(d)<br>
+9) if cos 9a= sin a  and 9a<90° , then the value of tan5a is<br>
+a)1/√3            b)√3          c)1             d)0 <br>
+9)Answer:<br>
+<input type="radio" name="9" value="(a)">(a)<br>
+<input type="radio" name="9" value="(b)">(b)<br>
+<input type="radio" name="9" value="(c)">(c)<br>
+<input type="radio" name="9" value="(d)">(d)<br>
+10) if ∆ ABC is right angled at B, sin A=4/5, find the value of cosA sinC+ sinA cos C <br>
+a)1            b)√2            c) 2              d)4/5 <br>
+10)Answer:<br>
+<input type="radio" name="10" value="(a)">(a)<br>
+<input type="radio" name="10" value="(b)">(b)<br>
+<input type="radio" name="10" value="(c)">(c)<br>
+<input type="radio" name="10" value="(d)">(d)<br>
+<input type="reset" value="Reset Fom">
+<input type="submit" value="Submit Data"  on click="check( )">
+</form >
+<script>
+function check( ){
+var 1=document.my form.1. value;
+var 2=document.my form.2. value;
+var 3=document.my form.3. value;
+var 4=document.my form.4. value;
+var 5=document.my form.5. value;
+var 6=document.my form.6. value;
+var 7=document.my form.7. value;
+var 8=document.my form.8. value;
+var 9=document.my form.9. value;
+var 10=document.my form.10. value;
+var count=1;
+if (1=="a"){
+count ++;
+}
+if (2=="b"){
+count ++;
+}
+if (3=="a"){
+count ++;
+}
+if (4=="b"){
+count ++;
+}
+if (5=="d"){
+count ++;
+}
+if (6=="a"){
+count ++;
+}
+if (7=="d"){
+count ++;
+}
+if (8=="a"){
+count ++;
+}
+if (9=="c"){
+count ++;
+}
+if (10=="a"){
+count ++;
+}
+alert("your total Marks is" +count+ "    ");
+}
+</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
